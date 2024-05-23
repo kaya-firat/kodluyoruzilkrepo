@@ -11,10 +11,3 @@ const messageElement = document.getElementById("message");
 messageElement.textContent = "Your Message";
 
 console.log(nameElement);
-
-console.log(emailElement);
-
-console.log(subjectElement);
-
-console.log(messageElement);
-
