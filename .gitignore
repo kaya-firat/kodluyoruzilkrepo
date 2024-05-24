@@ -1,0 +1,12 @@
+# videos
+*.mp4 
+
+# pictures
+*.jpg
+*.png
+/img
+
+# logs
+*.logs
+password.txt
+special.txt
