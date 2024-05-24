@@ -2,7 +2,6 @@
 *.mp4 
 
 # pictures
-*.jpg
 *.png
 /img
 
